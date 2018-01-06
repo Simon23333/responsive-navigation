@@ -1,6 +1,6 @@
-@-moz-viewport { width: device-width; scale:1;}
+@-moz-viewport { width: device-width; scale: 1;}
 @-ms-viewport { width: deviece-width; scale: 1;}
-@-o-viewport { width: device-width; scale:1;}
+@-o-viewport { width: device-width; scale: 1;}
 @-webkit-viewport { width: device-width; scale: 1;}
 @viewport { width: device-width; scale: 1;}
 
@@ -57,8 +57,8 @@ nav a:hover {
 @media only screen and (min-width: 25em) {
 
 nav li {
-  display: inline-block;
-  text-align: center;
+    display: inline-block;
+    text-align: center;
   }
 
 }
@@ -93,10 +93,10 @@ nav {
   vertical-align: middle;
 }
 
-h1{
+h1 {
   margin-bottom: 0;
   margin-right: 1.5rem;
-  }
+}
 
 }
 
